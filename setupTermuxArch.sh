@@ -727,4 +727,5 @@ elif [[ $1 = "" ]];then
 else
 	printusage
 fi
+keys
 printtail 
